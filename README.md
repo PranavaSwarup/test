@@ -8,7 +8,7 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **SQ1 Intro** | 🏛️ `Auditorium` | 6:00 PM - 7:30 PM |
+| 🚀 **SQ1 Intro** | `Auditorium` | 6:00 PM - 7:30 PM |
 
 ---
 
@@ -16,7 +16,7 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Icebreakers** | 📍 `A106, R103, R203` | 5:00 PM - 8:00 PM |
+| 🧊 **Icebreakers** | `A106, R103, R203` | 5:00 PM - 8:00 PM |
 
 ---
 
@@ -24,9 +24,9 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Club Workshop: Pioneers** | 🎓 `A106` | 10:30 AM - 12:30 PM &<br>2:00 PM - 4:00 PM |
-| **Club Workshop: Debsoc** | 🎓 `R103` | 10:30 AM - 12:30 PM &<br>2:00 PM - 4:00 PM |
-| **Karaoke Night** 🎤 | 🎶 `Amantran` | 8:30 PM - 10:30 PM |
+| 🎓 **Club Workshop: Pioneers** | `A106` | 10:30 AM - 12:30 PM &<br>2:00 PM - 4:00 PM |
+| 🎓 **Club Workshop: Debsoc** | `R103` | 10:30 AM - 12:30 PM &<br>2:00 PM - 4:00 PM |
+| 🎤 **Karaoke Night** | `Amantran` | 8:30 PM - 10:30 PM |
 
 ---
 
@@ -34,8 +34,8 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Dual Boot Session** 💻 | 👨‍💻 `A106` | 10:00 AM - 1:00 PM &<br>7:00 PM - 8:30 PM |
-| **Club Intros** | 🏛️ `Auditorium` | 2:00 PM - 6:00 PM |
+| 💻 **Dual Boot Session** | `A106` | 10:00 AM - 1:00 PM &<br>7:00 PM - 8:30 PM |
+| 👋 **Club Intros** | `Auditorium` | 2:00 PM - 6:00 PM |
 
 ---
 
@@ -43,7 +43,7 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **E-Sports Tournament** 🎮 | 📍 `R101, R102, R104, R105` | 8:30 PM - 11:30 PM |
+| 🎮 **E-Sports Tournament** | `R101, R102, R104, R105` | 8:30 PM - 11:30 PM |
 
 ---
 
@@ -51,8 +51,8 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Club Workshop: Symphony** | 🎶 `Amantran` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
-| **Club Workshop: Debsoc** | 🎓 `R103` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
+| 🎶 **Club Workshop: Symphony** | `Amantran` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
+| 🎓 **Club Workshop: Debsoc** | `R103` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
 
 ---
 
@@ -60,8 +60,8 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Club Workshop: Symphony** | 🎶 `Amantran` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
-| **Club Workshop: Parvaaz** | 🎭 `Auditorium` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
+| 🎶 **Club Workshop: Symphony** | `Amantran` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
+| 🎭 **Club Workshop: Parvaaz** | `Auditorium` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
 
 ---
 
@@ -69,7 +69,7 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Megabyte Show: 8Bit** | 🏛️ `Auditorium` | 5:00 PM - 10:00 PM |
+| 🕹️ **Megabyte Show: 8Bit** | `Auditorium` | 5:00 PM - 10:00 PM |
 
 ---
 
@@ -77,7 +77,7 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Freshie Fest** 🎉 | 🕺 `Ramanujan Basement` | 8:00 PM - 11:30 PM |
+| 🎉 **Freshie Fest** | `Ramanujan Basement` | 8:00 PM - 11:30 PM |
 
 ---
 
@@ -85,8 +85,8 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **CAMP Session** | 🏛️ `Auditorium` | 11:00 AM - 12:30 PM |
-| **Sports Tournament** 🏅 | 🏀 `Various Courts` | Full Day |
+| 🏕️ **CAMP Session** | `Auditorium` | 11:00 AM - 12:30 PM |
+| 🏅 **Sports Tournament** | `Various Courts` | Full Day |
 
 ---
 
@@ -94,7 +94,7 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Sports Tournament** 🏅 | 🏀 `Various Courts` | Full Day |
+| 🏅 **Sports Tournament** | `Various Courts` | Full Day |
 
 ---
 
@@ -102,10 +102,10 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Dual Boot Session** 💻 | 👨‍💻 `A106` | 3:30 PM - 5:00 PM |
-| **Club Workshop: E-Cell** | 💼 `R103` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
-| **Club Workshop: Impulse** | 💃 `Amantran` | 5:30 PM - 7:30 PM |
-| **Club Workshop: Vinci** | 🎨 `A106` | 8:30 PM - 10:30 PM |
+| 💻 **Dual Boot Session** | `A106` | 3:30 PM - 5:00 PM |
+| 💼 **Club Workshop: E-Cell** | `R103` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
+| 💃 **Club Workshop: Impulse** | `Amantran` | 5:30 PM - 7:30 PM |
+| 🎨 **Club Workshop: Vinci** | `A106` | 8:30 PM - 10:30 PM |
 
 ---
 
@@ -113,9 +113,9 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Club Workshop: Vinci** | 🎨 `A106` | 5:30 PM - 7:30 PM |
-| **Club Workshop: Impulse** | 💃 `Amantran` | 5:30 PM - 7:30 PM |
-| **Club Workshop: Quizsoc** | 🧠 `R103, R203` | 8:30 PM - 10:30 PM |
+| 🎨 **Club Workshop: Vinci** | `A106` | 5:30 PM - 7:30 PM |
+| 💃 **Club Workshop: Impulse** | `Amantran` | 5:30 PM - 7:30 PM |
+| 🧠 **Club Workshop: Quizsoc** | `R103, R203` | 8:30 PM - 10:30 PM |
 
 ---
 
@@ -123,8 +123,8 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Sands of Time: 8bit** | ⏳ `A106` | 5:30 PM - 7:30 PM |
-| **Club Workshop: Quizsoc** | 🧠 `R103` | 8:30 PM - 10:30 PM |
+| ⏳ **Sands of Time: 8bit** | `A106` | 5:30 PM - 7:30 PM |
+| 🧠 **Club Workshop: Quizsoc** | `R103` | 8:30 PM - 10:30 PM |
 
 ---
 
@@ -132,8 +132,8 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Club Workshop: Impulse** | 💃 `Amantran` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
-| **Club Workshop: Parvaaz** | 🎭 `Auditorium` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
+| 💃 **Club Workshop: Impulse** | `Amantran` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
+| 🎭 **Club Workshop: Parvaaz** | `Auditorium` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
 
 ---
 
@@ -141,7 +141,7 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Junior-Senior Interaction** | 🤝 `R103` | 9:00 PM - 11:00 PM |
+| 🤝 **Junior-Senior Interaction** | `R103` | 9:00 PM - 11:00 PM |
 
 ---
 
@@ -149,8 +149,8 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Brandstormers** | 💡 `R103, R203` | 10:30 AM - 12:30 PM &<br>2:00 PM - 4:00 PM |
-| **Musical Night** 🎶 | 🎸 `Basement` | 8:00 PM - 10:30 PM |
+| 💡 **Brandstormers** | `R103, R203` | 10:30 AM - 12:30 PM &<br>2:00 PM - 4:00 PM |
+| 🎸 **Musical Night** | `Basement` | 8:00 PM - 10:30 PM |
 
 ---
 
@@ -158,8 +158,8 @@ Welcome! Here is the detailed schedule of events. Please check back for any upda
 
 | Event | Location | Time |
 | :--- | :---: | :---: |
-| **Dual Boot Session** 💻 | 👨‍💻 `A106` | 10:00 AM - 1:00 PM |
-| **Closing Event** | 🏛️ `Auditorium` | 2:00 PM - 5:30 PM |
+| 💻 **Dual Boot Session** | `A106` | 10:00 AM - 1:00 PM |
+| 👋 **Closing Event** | `Auditorium` | 2:00 PM - 5:30 PM |
 
 <br>
 
