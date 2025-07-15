@@ -1,166 +1,278 @@
 # ✨ Fresher Orientation & Events Schedule 2025 ✨
 
-Welcome! Here is the detailed schedule of events. Please check back for any updates.
+Welcome! Here is the detailed schedule of events. Click on a date to see the events for that day.
 
 ---
 
-### ## 🗓️ Thursday, 17th July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 🚀 **SQ1 Intro** | `Auditorium` | 6:00 PM - 7:30 PM |
+<details>
+<summary><strong>🗓️ Thursday, 17th July</strong></summary>
 
 ---
+#### 🚀 **SQ1 Intro**
+- **📍 Location:** `Auditorium`
+- **🕒 Time:** 6:00 PM - 7:30 PM
+---
+</details>
 
-### ## 🗓️ Friday, 18th July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 🧊 **Icebreakers** | `A106, R103, R203` | 5:00 PM - 8:00 PM |
+<details>
+<summary><strong>🗓️ Friday, 18th July</strong></summary>
 
 ---
+#### 🧊 **Icebreakers**
+- **📍 Location:** `A106, R103, R203`
+- **🕒 Time:** 5:00 PM - 8:00 PM
+---
+</details>
 
-### ## 🗓️ Saturday, 19th July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 🎓 **Club Workshop: Pioneers** | `A106` | 10:30 AM - 12:30 PM &<br>2:00 PM - 4:00 PM |
-| 🎓 **Club Workshop: Debsoc** | `R103` | 10:30 AM - 12:30 PM &<br>2:00 PM - 4:00 PM |
-| 🎤 **Karaoke Night** | `Amantran` | 8:30 PM - 10:30 PM |
+<details>
+<summary><strong>🗓️ Saturday, 19th July</strong></summary>
 
 ---
-
-### ## 🗓️ Sunday, 20th July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 💻 **Dual Boot Session** | `A106` | 10:00 AM - 1:00 PM &<br>7:00 PM - 8:30 PM |
-| 👋 **Club Intros** | `Auditorium` | 2:00 PM - 6:00 PM |
+#### 🎓 **Club Workshop: Pioneers**
+- **📍 Location:** `A106`
+- **🕒 Time:** 10:30 AM - 12:30 PM & 2:00 PM - 4:00 PM
+<br>
 
 ---
-
-### ## 🗓️ Monday, 21st July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 🎮 **E-Sports Tournament** | `R101, R102, R104, R105` | 8:30 PM - 11:30 PM |
+#### 🎓 **Club Workshop: Debsoc**
+- **📍 Location:** `R103`
+- **🕒 Time:** 10:30 AM - 12:30 PM & 2:00 PM - 4:00 PM
+<br>
 
 ---
+#### 🎤 **Karaoke Night**
+- **📍 Location:** `Amantran`
+- **🕒 Time:** 8:30 PM - 10:30 PM
+---
+</details>
 
-### ## 🗓️ Tuesday, 22nd July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 🎶 **Club Workshop: Symphony** | `Amantran` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
-| 🎓 **Club Workshop: Debsoc** | `R103` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
+<details>
+<summary><strong>🗓️ Sunday, 20th July</strong></summary>
 
 ---
-
-### ## 🗓️ Wednesday, 23rd July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 🎶 **Club Workshop: Symphony** | `Amantran` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
-| 🎭 **Club Workshop: Parvaaz** | `Auditorium` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
+#### 💻 **Dual Boot Session**
+- **📍 Location:** `A106`
+- **🕒 Time:** 10:00 AM - 1:00 PM & 7:00 PM - 8:30 PM
+<br>
 
 ---
+#### 👋 **Club Intros**
+- **📍 Location:** `Auditorium`
+- **🕒 Time:** 2:00 PM - 6:00 PM
+---
+</details>
 
-### ## 🗓️ Thursday, 24th July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 🕹️ **Megabyte Show: 8Bit** | `Auditorium` | 5:00 PM - 10:00 PM |
+<details>
+<summary><strong>🗓️ Monday, 21st July</strong></summary>
 
 ---
+#### 🎮 **E-Sports Tournament**
+- **📍 Location:** `R101, R102, R104, R105`
+- **🕒 Time:** 8:30 PM - 11:30 PM
+---
+</details>
 
-### ## 🗓️ Friday, 25th July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 🎉 **Freshie Fest** | `Ramanujan Basement` | 8:00 PM - 11:30 PM |
+<details>
+<summary><strong>🗓️ Tuesday, 22nd July</strong></summary>
 
 ---
-
-### ## 🗓️ Saturday, 26th July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 🏕️ **CAMP Session** | `Auditorium` | 11:00 AM - 12:30 PM |
-| 🏅 **Sports Tournament** | `Various Courts` | Full Day |
+#### 🎶 **Club Workshop: Symphony**
+- **📍 Location:** `Amantran`
+- **🕒 Time:** 5:30 PM - 7:30 PM & 8:30 PM - 10:30 PM
+<br>
 
 ---
+#### 🎓 **Club Workshop: Debsoc**
+- **📍 Location:** `R103`
+- **🕒 Time:** 5:30 PM - 7:30 PM & 8:30 PM - 10:30 PM
+---
+</details>
 
-### ## 🗓️ Sunday, 27th July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 🏅 **Sports Tournament** | `Various Courts` | Full Day |
+<details>
+<summary><strong>🗓️ Wednesday, 23rd July</strong></summary>
 
 ---
-
-### ## 🗓️ Monday, 28th July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 💻 **Dual Boot Session** | `A106` | 3:30 PM - 5:00 PM |
-| 💼 **Club Workshop: E-Cell** | `R103` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
-| 💃 **Club Workshop: Impulse** | `Amantran` | 5:30 PM - 7:30 PM |
-| 🎨 **Club Workshop: Vinci** | `A106` | 8:30 PM - 10:30 PM |
+#### 🎶 **Club Workshop: Symphony**
+- **📍 Location:** `Amantran`
+- **🕒 Time:** 5:30 PM - 7:30 PM & 8:30 PM - 10:30 PM
+<br>
 
 ---
+#### 🎭 **Club Workshop: Parvaaz**
+- **📍 Location:** `Auditorium`
+- **🕒 Time:** 5:30 PM - 7:30 PM & 8:30 PM - 10:30 PM
+---
+</details>
 
-### ## 🗓️ Tuesday, 29th July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 🎨 **Club Workshop: Vinci** | `A106` | 5:30 PM - 7:30 PM |
-| 💃 **Club Workshop: Impulse** | `Amantran` | 5:30 PM - 7:30 PM |
-| 🧠 **Club Workshop: Quizsoc** | `R103, R203` | 8:30 PM - 10:30 PM |
+<details>
+<summary><strong>🗓️ Thursday, 24th July</strong></summary>
 
 ---
+#### 🕹️ **Megabyte Show: 8Bit**
+- **📍 Location:** `Auditorium`
+- **🕒 Time:** 5:00 PM - 10:00 PM
+---
+</details>
 
-### ## 🗓️ Wednesday, 30th July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| ⏳ **Sands of Time: 8bit** | `A106` | 5:30 PM - 7:30 PM |
-| 🧠 **Club Workshop: Quizsoc** | `R103` | 8:30 PM - 10:30 PM |
+<details>
+<summary><strong>🗓️ Friday, 25th July</strong></summary>
 
 ---
+#### 🎉 **Freshie Fest**
+- **📍 Location:** `Ramanujan Basement`
+- **🕒 Time:** 8:00 PM - 11:30 PM
+---
+</details>
 
-### ## 🗓️ Thursday, 31st July
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 💃 **Club Workshop: Impulse** | `Amantran` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
-| 🎭 **Club Workshop: Parvaaz** | `Auditorium` | 5:30 PM - 7:30 PM &<br>8:30 PM - 10:30 PM |
+<details>
+<summary><strong>🗓️ Saturday, 26th July</strong></summary>
 
 ---
-
-### ## 🗓️ Friday, 1st August
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 🤝 **Junior-Senior Interaction** | `R103` | 9:00 PM - 11:00 PM |
+#### 🏕️ **CAMP Session**
+- **📍 Location:** `Auditorium`
+- **🕒 Time:** 11:00 AM - 12:30 PM
+<br>
 
 ---
+#### 🏅 **Sports Tournament**
+- **📍 Location:** `Various Courts`
+- **🕒 Time:** Full Day
+---
+</details>
 
-### ## 🗓️ Saturday, 2nd August
-
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 💡 **Brandstormers** | `R103, R203` | 10:30 AM - 12:30 PM &<br>2:00 PM - 4:00 PM |
-| 🎸 **Musical Night** | `Basement` | 8:00 PM - 10:30 PM |
+<details>
+<summary><strong>🗓️ Sunday, 27th July</strong></summary>
 
 ---
+#### 🏅 **Sports Tournament**
+- **📍 Location:** `Various Courts`
+- **🕒 Time:** Full Day
+---
+</details>
 
-### ## 🗓️ Sunday, 3rd August
+<details>
+<summary><strong>🗓️ Monday, 28th July</strong></summary>
 
-| Event | Location | Time |
-| :--- | :---: | :---: |
-| 💻 **Dual Boot Session** | `A106` | 10:00 AM - 1:00 PM |
-| 👋 **Closing Event** | `Auditorium` | 2:00 PM - 5:30 PM |
+---
+#### 💻 **Dual Boot Session**
+- **📍 Location:** `A106`
+- **🕒 Time:** 3:30 PM - 5:00 PM
+<br>
 
+---
+#### 💼 **Club Workshop: E-Cell**
+- **📍 Location:** `R103`
+- **🕒 Time:** 5:30 PM - 7:30 PM & 8:30 PM - 10:30 PM
+<br>
+
+---
+#### 💃 **Club Workshop: Impulse**
+- **📍 Location:** `Amantran`
+- **🕒 Time:** 5:30 PM - 7:30 PM
+<br>
+
+---
+#### 🎨 **Club Workshop: Vinci**
+- **📍 Location:** `A106`
+- **🕒 Time:** 8:30 PM - 10:30 PM
+---
+</details>
+
+<details>
+<summary><strong>🗓️ Tuesday, 29th July</strong></summary>
+
+---
+#### 🎨 **Club Workshop: Vinci**
+- **📍 Location:** `A106`
+- **🕒 Time:** 5:30 PM - 7:30 PM
+<br>
+
+---
+#### 💃 **Club Workshop: Impulse**
+- **📍 Location:** `Amantran`
+- **🕒 Time:** 5:30 PM - 7:30 PM
+<br>
+
+---
+#### 🧠 **Club Workshop: Quizsoc**
+- **📍 Location:** `R103, R203`
+- **🕒 Time:** 8:30 PM - 10:30 PM
+---
+</details>
+
+<details>
+<summary><strong>🗓️ Wednesday, 30th July</strong></summary>
+
+---
+#### ⏳ **Sands of Time: 8bit**
+- **📍 Location:** `A106`
+- **🕒 Time:** 5:30 PM - 7:30 PM
+<br>
+
+---
+#### 🧠 **Club Workshop: Quizsoc**
+- **📍 Location:** `R103`
+- **🕒 Time:** 8:30 PM - 10:30 PM
+---
+</details>
+
+<details>
+<summary><strong>🗓️ Thursday, 31st July</strong></summary>
+
+---
+#### 💃 **Club Workshop: Impulse**
+- **📍 Location:** `Amantran`
+- **🕒 Time:** 5:30 PM - 7:30 PM & 8:30 PM - 10:30 PM
+<br>
+
+---
+#### 🎭 **Club Workshop: Parvaaz**
+- **📍 Location:** `Auditorium`
+- **🕒 Time:** 5:30 PM - 7:30 PM & 8:30 PM - 10:30 PM
+---
+</details>
+
+<details>
+<summary><strong>🗓️ Friday, 1st August</strong></summary>
+
+---
+#### 🤝 **Junior-Senior Interaction**
+- **📍 Location:** `R103`
+- **🕒 Time:** 9:00 PM - 11:00 PM
+---
+</details>
+
+<details>
+<summary><strong>🗓️ Saturday, 2nd August</strong></summary>
+
+---
+#### 💡 **Brandstormers**
+- **📍 Location:** `R103, R203`
+- **🕒 Time:** 10:30 AM - 12:30 PM & 2:00 PM - 4:00 PM
+<br>
+
+---
+#### 🎸 **Musical Night**
+- **📍 Location:** `Basement`
+- **🕒 Time:** 8:00 PM - 10:30 PM
+---
+</details>
+
+<details>
+<summary><strong>🗓️ Sunday, 3rd August</strong></summary>
+
+---
+#### 💻 **Dual Boot Session**
+- **📍 Location:** `A106`
+- **🕒 Time:** 10:00 AM - 1:00 PM
+<br>
+
+---
+#### 👋 **Closing Event**
+- **📍 Location:** `Auditorium`
+- **🕒 Time:** 2:00 PM - 5:30 PM
+---
+</details>
 <br>
 
 > **Note:** Please be on time for all events. The schedule is subject to minor changes. Stay tuned for any official announcements!
